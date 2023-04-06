@@ -1,8 +1,8 @@
 # Recruitment task for Abax company
-##T ask description
-### The aim of the task is to write automated tests for the PUNK API API in order to verify the beers produced after December 2015.
+## Task description
+The aim of the task is to write automated tests for the [PUNK API](https://punkapi.com/documentation/v2) API in order to verify the beers produced after December 2015.
 
-### Instructions for running tests
+## Instructions for running tests
 
 To run the tests, follow these steps:
 
@@ -22,13 +22,13 @@ Install the project dependencies by running the following command:
 
 This will install all the necessary dependencies.
 
-#### To run the tests in graphical mode, run the following command:
+### To run the tests in graphical mode, run the following command:
 
 `npx cypress open`
 
 This will open the Cypress tool in graphical mode, where you can select the tests to run.
 
-#### To run the tests in console mode, run the following command:
+### To run the tests in console mode, run the following command:
 
 `npx cypress run`
 
