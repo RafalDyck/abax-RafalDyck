@@ -6,7 +6,7 @@ The aim of the task is to write automated tests for the [PUNK API](https://punka
 
 To run the tests, follow these steps:
 
-1. Clone the repository to your local computer
+1. Clone the repository to your local computer. The code is in the master branch, so make sure to switch to that branch after cloning.
 
 2. Check if Node.js is installed on your computer by running the following command:
 
